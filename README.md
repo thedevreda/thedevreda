@@ -5,4 +5,4 @@ My journey in data analysis is driven by my curiosity and desire to build impact
 - 🌱 I recently focus on Data Analysis, what I'm Learning I'm always eager to expand my knowledge.
 - ✨ Turning Data into Strategic Insights
 - 🌐 Connect with Me : 
-  - [LinkedIn | [Rida Amelloul]](https://www.linkedin.com/in/ridaamelloul/)
+  - [LinkedIn](https://www.linkedin.com/in/ridaamelloul/)

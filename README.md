@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rida Amelloul</h1>
 <h3 align="center">A passionate data analyst from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedevreda" alt="thedevreda" /></a> </p>
-
 - 🔭 I’m currently working on **developing my skills in data analysis with a focus on PostgreSQL, Python and Excel and more technologies.**
 
 - 🌱 I’m currently learning **more about data science**

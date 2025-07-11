@@ -1,3 +1,4 @@
+[!Alt](https://github.com/thedevreda/walls-catppuccin-mocha/blob/master/basement.jpg)
 <h1 align="center">Hi 👋, I'm Rida Amelloul</h1>
 <h3 align="center">A passionate data analyst from Morocco</h3>
 
